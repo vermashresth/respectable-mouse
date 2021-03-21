@@ -1,5 +1,6 @@
 import numpy as np
 
+import sklearn
 from tensorflow import keras
 import tensorflow as tf
 from tensorflow.keras.models import Sequential
